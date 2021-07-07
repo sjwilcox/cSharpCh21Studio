@@ -1,0 +1,16 @@
+D:\VS Projects\FunWithQuiz\FunWithQuiz\bin\Debug\net5.0\FunWithQuiz.exe
+D:\VS Projects\FunWithQuiz\FunWithQuiz\bin\Debug\net5.0\FunWithQuiz.deps.json
+D:\VS Projects\FunWithQuiz\FunWithQuiz\bin\Debug\net5.0\FunWithQuiz.runtimeconfig.json
+D:\VS Projects\FunWithQuiz\FunWithQuiz\bin\Debug\net5.0\FunWithQuiz.runtimeconfig.dev.json
+D:\VS Projects\FunWithQuiz\FunWithQuiz\bin\Debug\net5.0\FunWithQuiz.dll
+D:\VS Projects\FunWithQuiz\FunWithQuiz\bin\Debug\net5.0\ref\FunWithQuiz.dll
+D:\VS Projects\FunWithQuiz\FunWithQuiz\bin\Debug\net5.0\FunWithQuiz.pdb
+D:\VS Projects\FunWithQuiz\FunWithQuiz\obj\Debug\net5.0\FunWithQuiz.csproj.AssemblyReference.cache
+D:\VS Projects\FunWithQuiz\FunWithQuiz\obj\Debug\net5.0\FunWithQuiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\FunWithQuiz\FunWithQuiz\obj\Debug\net5.0\FunWithQuiz.AssemblyInfoInputs.cache
+D:\VS Projects\FunWithQuiz\FunWithQuiz\obj\Debug\net5.0\FunWithQuiz.AssemblyInfo.cs
+D:\VS Projects\FunWithQuiz\FunWithQuiz\obj\Debug\net5.0\FunWithQuiz.csproj.CoreCompileInputs.cache
+D:\VS Projects\FunWithQuiz\FunWithQuiz\obj\Debug\net5.0\FunWithQuiz.dll
+D:\VS Projects\FunWithQuiz\FunWithQuiz\obj\Debug\net5.0\ref\FunWithQuiz.dll
+D:\VS Projects\FunWithQuiz\FunWithQuiz\obj\Debug\net5.0\FunWithQuiz.pdb
+D:\VS Projects\FunWithQuiz\FunWithQuiz\obj\Debug\net5.0\FunWithQuiz.genruntimeconfig.cache
